@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.bak
+*.swp
+*.orig
+*.py~
+env
+openai_token.py
